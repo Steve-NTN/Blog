@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>The Seventh Secret</title>
+      <link>https://anhnghia47.github.io/Blog/post/p3/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://anhnghia47.github.io/Blog/post/p3/</guid>
+      <description>Secret about Adolf Part I Oxford historian Harrison Ashcroft, preparing to publish his biography of Adolf Hitler entitled Herr Hitler along with his daughter Emily Ashcroft, receives a letter from a stranger in West Berlin informing them that the book could be wrong if published with the popular version of Hitler&amp;rsquo;s suicide as its end. The stranger even writes that he can prove that the corpse shown in the April 30, 1945 photos of Führerbunker were not of Hitler and his wife Eva Braun.</description>
+    </item>
+    
+    <item>
       <title>Tài khoản của bạn đã bị hack</title>
       <link>https://anhnghia47.github.io/Blog/post/p1/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
@@ -22,31 +31,12 @@ I sat in my tall swivel chair behind the counter, feet kicked up next to the reg
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://anhnghia47.github.io/Blog/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>World Health Organization</title>
+      <link>https://anhnghia47.github.io/Blog/post/p2/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://anhnghia47.github.io/Blog/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://anhnghia47.github.io/Blog/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhnghia47.github.io/Blog/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://anhnghia47.github.io/Blog/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhnghia47.github.io/Blog/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
-pectora summo.&lt;/p&gt;</description>
+      <guid>https://anhnghia47.github.io/Blog/post/p2/</guid>
+      <description>WHO About WHO The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health.[1] It is part of the U.N. Sustainable Development Group. The WHO Constitution, which establishes the agency&amp;rsquo;s governing structure and principles, states its main objective as ensuring &amp;ldquo;the attainment by all peoples of the highest possible level of health.&amp;quot;[2] It is headquartered in Geneva, Switzerland, with six semi-autonomous regional offices and 150 field offices worldwide.</description>
     </item>
     
     <item>
@@ -56,15 +46,6 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>https://anhnghia47.github.io/Blog/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://anhnghia47.github.io/Blog/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://anhnghia47.github.io/Blog/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
   </channel>
